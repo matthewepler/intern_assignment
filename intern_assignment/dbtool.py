@@ -15,3 +15,7 @@ def open_file(path:str) -> list:
     rows_list = [r.split(',') for r in rows]
         
     return rows_list
+
+
+def save_to_db(model, data):
+    pass

@@ -1,4 +1,6 @@
-#:# TO-DO:
+# TO-DO:
+- add postgres db
+- add func for saving to db
 
 # Database Application (intern assignment)
 
